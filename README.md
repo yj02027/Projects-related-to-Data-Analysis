@@ -1,3 +1,3 @@
-# code-examples
+# Data Analysis 관련 활동 정리
 
-그동안 실습해온 주제의 code들 정리한 것 :)
+데이터 분석, 웹 크롤링, 분산투자 종목 예측 등 직접 해봤던 project들 결과물 + code 정리한 것 :)
